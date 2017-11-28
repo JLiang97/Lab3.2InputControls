@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 3.2 Input Controls</string>
+    <string name="age">Âge</string>
+    <string name="gender">Le genre</string>
+    <string name="male">Mâle</string>
+    <string name="female">Femelle</string>
+    <string name="smoker">Fumeur?</string>
+    <string name="premium">Prime:</string>
+    <string name="calculate">Calculer</string>
+    <string name="reset">Réinitialiser</string>
+    <string-array name="age_group">
+        <item>Moins que 5</item>
+        <item>5 to 11</item>
+        <item>12 to 16</item>
+        <item>17 to 21</item>
+        <item>22 to 30</item>
+        <item>31 to 40</item>
+        <item>41 to 50</item>
+        <item>Plus que 50</item>
+    </string-array>
+</resources>
